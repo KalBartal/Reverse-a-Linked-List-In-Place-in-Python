@@ -1,6 +1,6 @@
-# Reverse a Linked List In-Place in Python
+# Reverse a Linked List In Place in Python
 
-[ ![Reverse a Linked List In-Place in Python](./image.png)](https://youtu.be/d60duiYx0YM)
+[ ![Reverse a Linked List In Place in Python](./image.png)](https://youtu.be/d60duiYx0YM)
 
 This repository contains the code and solution to the problem of reversing a singly-linked list in-place. The code is written in Python.
 
