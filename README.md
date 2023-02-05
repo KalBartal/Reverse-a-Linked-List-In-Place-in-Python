@@ -16,7 +16,7 @@ The problem can be solved using an iterative approach. We can use a loop to iter
 ## Usage
 You can run the code using any Python IDE or terminal. To run it in the terminal, navigate to the directory where the code is located, and run the following command:
 
-`python reverse_linked_list.py`
+`main.py`
 
 ## Time and Space Complexity
 The time complexity of this code is O(n), because it iterates through the list once and does not use any additional data structure, so the number of operations is proportional to the number of nodes in the list. Additionally, it does not perform any extra comparisons or other operations on each iteration, so the time complexity remains linear. The space complexity of this code is also O(1), or constant time, as the space required to perform the operations in the reverseLinkedList() function is independent of the size of the input and we only need to initialize a few variables that take up the same amount of space to perform the reversal. Therefore, this algorithm is very efficient in both time and space complexity.
